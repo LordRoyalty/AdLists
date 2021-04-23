@@ -8,3 +8,116 @@ www.cryptomininggame.com##div.text-center > [href^="https://wolf.bet/"]
 www.cryptomininggame.com##[href^="https://tracker-pm2.fortunejackpartners.com/link"]
 ||www.cryptomininggame.com/uploads/shortad/images/5faa710fa38f7436197153.jpg$image
 www.cryptomininggame.com###score_block > [href^="https://go.stormgain.com/visit/"]
+
+! 2021-04-23 https://firefaucet.win
+firefaucet.win##.sticky-ad-728x90.hide-on-small-only
+firefaucet.win##center:nth-of-type(3)
+
+! 2021-04-23 https://dogemate.com
+dogemate.com##body > center
+
+! 2021-04-23 https://bitlinks.pw
+bitlinks.pw##div:nth-of-type(6)
+bitlinks.pw##body > div:nth-of-type(5)
+
+! 2021-04-23 https://tech.dutchycorp.space
+tech.dutchycorp.space##.single_post
+tech.dutchycorp.space###site-header > .primary-navigation
+tech.dutchycorp.space##.site-branding
+tech.dutchycorp.space###recent-posts-2 > ul
+tech.dutchycorp.space###recent-posts-2 > .widget-title
+tech.dutchycorp.space##.breadcrumb
+tech.dutchycorp.space##.sfsi_widget
+tech.dutchycorp.space###sfsi-widget-2
+tech.dutchycorp.space###helpass
+tech.dutchycorp.space##.copyrights
+tech.dutchycorp.space###clickhelp_two > center > p
+tech.dutchycorp.space###phpeverywherewidget-3
+tech.dutchycorp.space###phpeverywherewidget-4
+
+! 2021-04-23 https://dutchycorp.space
+dutchycorp.space##.col-md-offset-1.col-md-10 > h3
+dutchycorp.space##.copyright-container
+dutchycorp.space###floatright
+dutchycorp.space###floatleft
+dutchycorp.space##.container-fluid
+dutchycorp.space###link-view > p
+dutchycorp.space###bs-example-navbar-collapse-1
+dutchycorp.ovh###cl2 > p
+dutchycorp.ovh##.text-center.form-group
+dutchycorp.space###mainNav > .container
+
+! 2021-04-23 https://movies.dutchycorp.space
+movies.dutchycorp.space##.search-form
+movies.dutchycorp.space##.single_post
+movies.dutchycorp.space###site-header > .primary-navigation
+movies.dutchycorp.space##.site-branding
+movies.dutchycorp.space###recent-posts-2 > ul
+movies.dutchycorp.space###recent-posts-2 > .widget-title
+movies.dutchycorp.space##.breadcrumb
+movies.dutchycorp.space##.sfsi_widget
+movies.dutchycorp.space###sfsi-widget-2
+movies.dutchycorp.space###helpass
+movies.dutchycorp.space##.copyrights
+movies.dutchycorp.space###clickhelp_two > center > p
+movies.dutchycorp.space###phpeverywherewidget-3
+movies.dutchycorp.space###phpeverywherewidget-4
+
+! 2021-04-23 https://uniqueten.net
+uniqueten.net###main > .clr.container
+uniqueten.net##.text-center.wpsafe-top .\36 034c92ee663c116de7b6225
+uniqueten.net##.no-footer-nav.clr
+uniqueten.net##.clr.oceanwp-row
+uniqueten.net##.clr.minimal-header
+uniqueten.net##center:nth-of-type(2)
+uniqueten.net##.text-center.wpsafe-top p
+uniqueten.net##.has-no-content.container.clr
+uniqueten.net##center:nth-of-type(6)
+uniqueten.net##center:nth-of-type(1)
+
+! 2021-04-23 https://crypto-faucet.xyz
+crypto-faucet.xyz##.p-5.col-md-12
+crypto-faucet.xyz##.col-md-7
+crypto-faucet.xyz##.col-md-2
+crypto-faucet.xyz##div.text-center.py-2.col-md-12:nth-of-type(1)
+crypto-faucet.xyz##div.py-2.text-center.col-md-12:nth-of-type(3)
+
+! 2021-04-23 https://doctor-groups.com
+doctor-groups.com##.p-5.col-md-12
+doctor-groups.com##.col-md-7
+doctor-groups.com##.col-md-2
+doctor-groups.com##div.text-center.py-2.col-md-12:nth-of-type(1)
+doctor-groups.com##div.py-2.text-center.col-md-12:nth-of-type(3)
+
+! 2021-04-23 https://cashearn.cc
+cashearn.cc##body > div:nth-of-type(5)
+
+! 2021-04-23 https://dutchycorp.ovh
+dutchycorp.ovh##.col-md-offset-1.col-md-10 > h3
+dutchycorp.ovh##.copyright-container
+dutchycorp.ovh###floatright
+dutchycorp.ovh###floatleft
+dutchycorp.ovh##.container-fluid
+dutchycorp.ovh###link-view > p
+dutchycorp.ovh###bs-example-navbar-collapse-1
+dutchycorp.ovh###cl2 > p
+dutchycorp.ovh##.text-center.form-group
+
+! 2021-04-23 https://anime.dutchycorp.space
+anime.dutchycorp.space##.single_post
+anime.dutchycorp.space###site-header > .primary-navigation
+anime.dutchycorp.space##.site-branding
+anime.dutchycorp.space###recent-posts-2 > ul
+anime.dutchycorp.space###recent-posts-2 > .widget-title
+anime.dutchycorp.space##.breadcrumb
+anime.dutchycorp.space##.sfsi_widget
+anime.dutchycorp.space###sfsi-widget-2
+anime.dutchycorp.space###helpass
+anime.dutchycorp.space##.copyrights
+anime.dutchycorp.space###clickhelp_two > center > p
+anime.dutchycorp.space###phpeverywherewidget-3
+anime.dutchycorp.space###phpeverywherewidget-4
+anime.dutchycorp.space###categories-4 > ul
+anime.dutchycorp.space##.search-form
+anime.dutchycorp.space###categories-4 > .widget-title
+
