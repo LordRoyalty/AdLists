@@ -1,0 +1,10 @@
+! 2021-04-23 https://www.cryptomininggame.com
+www.cryptomininggame.com###main_footer
+||cryptomininggame.com/uploads/partner/images/5fd9cdff6e496974448103.jpg$image
+www.cryptomininggame.com##.col-lg-3
+www.cryptomininggame.com##.row-fluid.sonata-user-show > div > div.text-center > [href^="https://tracker-pm2.fortunejackpartners.com/link"]
+www.cryptomininggame.com##div.text-center > [href^="https://wolf.bet/"]
+||www.cryptomininggame.com/uploads/shortad/images/600fd4b74865a067106612.jpg$image
+www.cryptomininggame.com##[href^="https://tracker-pm2.fortunejackpartners.com/link"]
+||www.cryptomininggame.com/uploads/shortad/images/5faa710fa38f7436197153.jpg$image
+www.cryptomininggame.com###score_block > [href^="https://go.stormgain.com/visit/"]
