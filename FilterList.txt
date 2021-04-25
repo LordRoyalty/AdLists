@@ -93,6 +93,7 @@ uniqueten.net##.no-footer-nav.clr
 uniqueten.net##.clr.oceanwp-row
 
 ! https://crypto-faucet.xyz
+crypto-faucet.xyz##.pb-3.text-center.col-md-12
 crypto-faucet.xyz##div.text-center.py-2.col-md-12:nth-of-type(1)
 crypto-faucet.xyz##div.py-2.text-center.col-md-12:nth-of-type(3)
 crypto-faucet.xyz##.p-5.col-md-12
@@ -105,9 +106,6 @@ doctor-groups.com##div.py-2.text-center.col-md-12:nth-of-type(3)
 doctor-groups.com##.p-5.col-md-12
 doctor-groups.com##.col-md-7
 doctor-groups.com##.col-md-2
-
-! https://cashearn.cc
-cashearn.cc##body > div:nth-of-type(5)
 
 ! https://deportealdia.live
 deportealdia.live##.row > .container > .row > .col-md-offset-1.col-md-10
@@ -182,35 +180,137 @@ fcc.lc##.col-sm-4
 fcc.lc##.row
 fcc.lc##.site-logo
 
+! https://faucet.100count.net
+faucet.100count.net##.p-5.col-md-12
+faucet.100count.net##div.text-center.py-2.col-md-12:nth-of-type(1)
+faucet.100count.net##.pb-3.text-center.col-md-12
+faucet.100count.net##.col-md-7
+faucet.100count.net##div.py-2.text-center.col-md-12:nth-of-type(3)
+
 ! https://100count.net
-100count.net##.col-md-3
+100count.net##.text-left > center
 100count.net##.pb-3.text-center.col-md-12
+100count.net##div.text-center.py-2.col-md-12:nth-of-type(1)
 100count.net##div.text-center.col-md-12:nth-of-type(3)
-100count.net##.text-left
-100count.net##center > .col-md-12 > center:nth-of-type(1)
-100count.net##h5:nth-of-type(2)
+100count.net##.p-2.mx-auto.text-center
+100count.net###methods > font
 100count.net##center > font > p
-100count.net###methods h1
-100count.net##h5:nth-of-type(1)
-100count.net###methods > font > p
-100count.net##h2:nth-of-type(1)
-100count.net##p:nth-of-type(1)
-100count.net##h2:nth-of-type(2)
-100count.net##p:nth-of-type(2)
-100count.net##h1:nth-of-type(1)
-100count.net##p:nth-of-type(3)
-100count.net##h1:nth-of-type(2)
-100count.net##p:nth-of-type(4)
-100count.net##h1:nth-of-type(3)
-100count.net##p:nth-of-type(5)
-100count.net##h1:nth-of-type(4)
-100count.net##p:nth-of-type(6)
-100count.net##h1:nth-of-type(5)
-100count.net##p:nth-of-type(7)
+100count.net##h2
+100count.net##.middle.column > p
+100count.net##.middle.column > h1
+100count.net##.footer-copyright p
 100count.net##hr
-100count.net##.copyright-container
-100count.net##.container-fluid
-100count.net##p:nth-of-type(8)
 100count.net##h1
-100count.net##h4
-100count.net##h3
+100count.net##.col-md-offset-1.col-md-10 > p
+100count.net##.copyright-container
+100count.net##.box-main > p
+100count.net##.text-left
+100count.net##h3:nth-of-type(1)
+100count.net##h3:nth-of-type(2)
+100count.net##h3:nth-of-type(3)
+100count.net##h3:nth-of-type(4)
+100count.net##.navbar-default.navbar
+
+! https://linksly.co
+linksly.co##.blog-content
+linksly.co##.container-fluid
+linksly.co##.copyright-container
+linksly.co##center
+linksly.co##.banner-inner
+
+! https://ccurl.net
+ccurl.net##.pb-3.text-center.col-md-12
+ccurl.net##.p-5.col-md-12
+ccurl.net##div.text-center.py-2.col-md-12:nth-of-type(1)
+ccurl.net##.col-md-7
+ccurl.net##div.py-2.text-center.col-md-12:nth-of-type(3)
+ccurl.net##.text-left
+ccurl.net##div:nth-of-type(8) > div
+ccurl.net##div:nth-of-type(8)
+ccurl.net##.navbar-default.navbar
+ccurl.net##.copyright-container
+!ccurl.net##.container-fluid
+
+! https://www.lootlinks.net
+www.lootlinks.net##td:nth-of-type(2)
+www.lootlinks.net##header > table
+www.lootlinks.net##h2
+www.lootlinks.net##i
+www.lootlinks.net##.container > table > tbody > tr > td
+
+! https://speedsatoshi.com
+speedsatoshi.com##i
+speedsatoshi.com##h2
+speedsatoshi.com##table:nth-of-type(1) > tbody > tr > td:nth-of-type(2)
+speedsatoshi.com##table:nth-of-type(1) > tbody > tr > td:nth-of-type(1)
+speedsatoshi.com##td:nth-of-type(3)
+speedsatoshi.com##td:nth-of-type(1)
+speedsatoshi.com##table.borderless:nth-of-type(2) > tbody > tr > td:nth-of-type(2)
+
+! https://cashurl.in
+cashurl.in##.text-left
+cashurl.in##.copyright-container
+cashurl.in##.navbar-default.navbar
+
+! https://cuturl.in
+cuturl.in##.text-left
+cuturl.in##div:nth-of-type(6)
+cuturl.in##.main-footer
+cuturl.in##[src="https://images.dmca.com/Badges/_dmca_premi_badge_6.png?ID=25f7667a-ab04-40e8-9e02-3d64acb824c8"]
+cuturl.in##.navbar
+cuturl.in##body > div:nth-of-type(1) > div
+
+! https://topcryptoz.net
+topcryptoz.net##.no-footer-nav.clr
+topcryptoz.net##.clr.oceanwp-row
+topcryptoz.net##.text-center.wpsafe-top p
+topcryptoz.net##.clr.minimal-header
+topcryptoz.net##.has-no-content.container.clr
+
+! https://allcryptoz.net
+allcryptoz.net##.no-footer-nav.clr
+allcryptoz.net##.clr.oceanwp-row
+allcryptoz.net##.clr.minimal-header
+allcryptoz.net##.text-center.wpsafe-top p
+allcryptoz.net##.has-no-content.container.clr
+allcryptoz.net##.navbar-default.navbar
+allcryptoz.net##.copyright-container
+
+! https://cblink.crazyblog.in
+cblink.crazyblog.in##.container-fluid
+cblink.crazyblog.in##.copyright-container
+cblink.crazyblog.in##.navbar-default.navbar
+cblink.crazyblog.in##div.banner-captcha.banner
+cblink.crazyblog.in##.text-left
+
+! https://go.adcorto.me
+go.adcorto.me##header
+go.adcorto.me##.animated.zoomIn.wow.text-center.py-5
+go.adcorto.me##.box-main > p
+go.adcorto.me##div:nth-of-type(5)
+go.adcorto.me##h2
+go.adcorto.me###link-view > p
+
+! https://cashearn.cc
+cashearn.cc##body > div:nth-of-type(5)
+cashearn.cc##.px-2.text-left
+cashearn.cc##center
+cashearn.cc##.container-fluid
+cashearn.cc##.main-footer
+cashearn.cc##.navbar
+cashearn.cc##hr
+cashearn.cc###link-view > .text-left
+cashearn.cc##div.text-left:nth-of-type(3)
+cashearn.cc##.banner-336x280.banner
+cashearn.cc##.text-center.box-body > h4
+
+! https://dutchycorp.ovh
+dutchycorp.ovh###link-view > p
+dutchycorp.ovh###cl2 > p
+dutchycorp.ovh##.text-center.form-group
+dutchycorp.ovh##.copyright-container
+dutchycorp.ovh##.container-fluid
+dutchycorp.ovh##.col-md-offset-1.col-md-10 > h3
+!dutchycorp.ovh##.navbar-default.navbar
+dutchycorp.ovh###floatleft
+dutchycorp.ovh###floatright
