@@ -106,6 +106,12 @@ doctor-groups.com##div.py-2.text-center.col-md-12:nth-of-type(3)
 doctor-groups.com##.p-5.col-md-12
 doctor-groups.com##.col-md-7
 doctor-groups.com##.col-md-2
+!doctor-groups.com##.container-fluid
+doctor-groups.com##.copyright-container
+doctor-groups.com##p
+doctor-groups.com##h2
+doctor-groups.com##h3:nth-of-type(2)
+doctor-groups.com##.navbar-default.navbar
 
 ! https://deportealdia.live
 deportealdia.live##.row > .container > .row > .col-md-offset-1.col-md-10
