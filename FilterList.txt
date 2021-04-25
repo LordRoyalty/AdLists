@@ -1,123 +1,216 @@
-! 2021-04-23 https://www.cryptomininggame.com
+! https://www.cryptomininggame.com
 www.cryptomininggame.com###main_footer
-||cryptomininggame.com/uploads/partner/images/5fd9cdff6e496974448103.jpg$image
-www.cryptomininggame.com##.col-lg-3
+www.cryptomininggame.com###score_block > [href^="https://go.stormgain.com/visit/"]
+!www.cryptomininggame.com##.col-lg-3
 www.cryptomininggame.com##.row-fluid.sonata-user-show > div > div.text-center > [href^="https://tracker-pm2.fortunejackpartners.com/link"]
 www.cryptomininggame.com##div.text-center > [href^="https://wolf.bet/"]
-||www.cryptomininggame.com/uploads/shortad/images/600fd4b74865a067106612.jpg$image
 www.cryptomininggame.com##[href^="https://tracker-pm2.fortunejackpartners.com/link"]
+||cryptomininggame.com/uploads/partner/images/5fd9cdff6e496974448103.jpg$image
+||www.cryptomininggame.com/uploads/shortad/images/600fd4b74865a067106612.jpg$image
 ||www.cryptomininggame.com/uploads/shortad/images/5faa710fa38f7436197153.jpg$image
-www.cryptomininggame.com###score_block > [href^="https://go.stormgain.com/visit/"]
 
-! 2021-04-23 https://firefaucet.win
+! https://firefaucet.win
 firefaucet.win##.sticky-ad-728x90.hide-on-small-only
 firefaucet.win##center:nth-of-type(3)
 
-! 2021-04-23 https://dogemate.com
+! https://dogemate.com
+dogemate.com##.col-md-7 > .justify-content-center.row > div.col-md-12:nth-of-type(2)
+dogemate.com##.col-md-7 > .justify-content-center.row > div.text-center.col-md-12
+dogemate.com##div.text-center.py-2.col-md-12:nth-of-type(1)
+dogemate.com##.float-right.btn-warning.btn
 dogemate.com##body > center
+dogemate.com##.col-md-7
 
-! 2021-04-23 https://bitlinks.pw
-bitlinks.pw##div:nth-of-type(6)
-bitlinks.pw##body > div:nth-of-type(5)
+! https://dutchycorp.space
+dutchycorp.space##.col-md-offset-1.col-md-10 > h3
+dutchycorp.space###bs-example-navbar-collapse-1
+dutchycorp.space###mainNav > .container
+dutchycorp.space##.copyright-container
+dutchycorp.space##.container-fluid
+dutchycorp.space###link-view > p
+dutchycorp.space###floatright
+dutchycorp.space###floatleft
 
-! 2021-04-23 https://tech.dutchycorp.space
-tech.dutchycorp.space##.single_post
+! https://tech.dutchycorp.space
 tech.dutchycorp.space###site-header > .primary-navigation
-tech.dutchycorp.space##.site-branding
-tech.dutchycorp.space###recent-posts-2 > ul
 tech.dutchycorp.space###recent-posts-2 > .widget-title
-tech.dutchycorp.space##.breadcrumb
-tech.dutchycorp.space##.sfsi_widget
-tech.dutchycorp.space###sfsi-widget-2
-tech.dutchycorp.space###helpass
-tech.dutchycorp.space##.copyrights
 tech.dutchycorp.space###clickhelp_two > center > p
 tech.dutchycorp.space###phpeverywherewidget-3
 tech.dutchycorp.space###phpeverywherewidget-4
+tech.dutchycorp.space###recent-posts-2 > ul
+tech.dutchycorp.space##.site-branding
+tech.dutchycorp.space###sfsi-widget-2
+tech.dutchycorp.space##.single_post
+tech.dutchycorp.space##.breadcrumb
+tech.dutchycorp.space##.sfsi_widget
+tech.dutchycorp.space##.copyrights
+tech.dutchycorp.space###helpass
 
-! 2021-04-23 https://dutchycorp.space
-dutchycorp.space##.col-md-offset-1.col-md-10 > h3
-dutchycorp.space##.copyright-container
-dutchycorp.space###floatright
-dutchycorp.space###floatleft
-dutchycorp.space##.container-fluid
-dutchycorp.space###link-view > p
-dutchycorp.space###bs-example-navbar-collapse-1
-dutchycorp.ovh###cl2 > p
-dutchycorp.ovh##.text-center.form-group
-dutchycorp.space###mainNav > .container
-
-! 2021-04-23 https://movies.dutchycorp.space
-movies.dutchycorp.space##.search-form
-movies.dutchycorp.space##.single_post
+! https://movies.dutchycorp.space
 movies.dutchycorp.space###site-header > .primary-navigation
-movies.dutchycorp.space##.site-branding
-movies.dutchycorp.space###recent-posts-2 > ul
 movies.dutchycorp.space###recent-posts-2 > .widget-title
-movies.dutchycorp.space##.breadcrumb
-movies.dutchycorp.space##.sfsi_widget
-movies.dutchycorp.space###sfsi-widget-2
-movies.dutchycorp.space###helpass
-movies.dutchycorp.space##.copyrights
 movies.dutchycorp.space###clickhelp_two > center > p
 movies.dutchycorp.space###phpeverywherewidget-3
 movies.dutchycorp.space###phpeverywherewidget-4
+movies.dutchycorp.space###recent-posts-2 > ul
+movies.dutchycorp.space##.site-branding
+movies.dutchycorp.space###sfsi-widget-2
+movies.dutchycorp.space##.search-form
+movies.dutchycorp.space##.single_post
+movies.dutchycorp.space##.breadcrumb
+movies.dutchycorp.space##.sfsi_widget
+movies.dutchycorp.space##.copyrights
+movies.dutchycorp.space###helpass
 
-! 2021-04-23 https://uniqueten.net
-uniqueten.net###main > .clr.container
-uniqueten.net##.text-center.wpsafe-top .\36 034c92ee663c116de7b6225
-uniqueten.net##.no-footer-nav.clr
-uniqueten.net##.clr.oceanwp-row
-uniqueten.net##.clr.minimal-header
-uniqueten.net##center:nth-of-type(2)
-uniqueten.net##.text-center.wpsafe-top p
-uniqueten.net##.has-no-content.container.clr
-uniqueten.net##center:nth-of-type(6)
-uniqueten.net##center:nth-of-type(1)
-
-! 2021-04-23 https://crypto-faucet.xyz
-crypto-faucet.xyz##.p-5.col-md-12
-crypto-faucet.xyz##.col-md-7
-crypto-faucet.xyz##.col-md-2
-crypto-faucet.xyz##div.text-center.py-2.col-md-12:nth-of-type(1)
-crypto-faucet.xyz##div.py-2.text-center.col-md-12:nth-of-type(3)
-
-! 2021-04-23 https://doctor-groups.com
-doctor-groups.com##.p-5.col-md-12
-doctor-groups.com##.col-md-7
-doctor-groups.com##.col-md-2
-doctor-groups.com##div.text-center.py-2.col-md-12:nth-of-type(1)
-doctor-groups.com##div.py-2.text-center.col-md-12:nth-of-type(3)
-
-! 2021-04-23 https://cashearn.cc
-cashearn.cc##body > div:nth-of-type(5)
-
-! 2021-04-23 https://dutchycorp.ovh
-dutchycorp.ovh##.col-md-offset-1.col-md-10 > h3
-dutchycorp.ovh##.copyright-container
-dutchycorp.ovh###floatright
-dutchycorp.ovh###floatleft
-dutchycorp.ovh##.container-fluid
-dutchycorp.ovh###link-view > p
-dutchycorp.ovh###bs-example-navbar-collapse-1
-dutchycorp.ovh###cl2 > p
-dutchycorp.ovh##.text-center.form-group
-
-! 2021-04-23 https://anime.dutchycorp.space
-anime.dutchycorp.space##.single_post
+! https://anime.dutchycorp.space
 anime.dutchycorp.space###site-header > .primary-navigation
-anime.dutchycorp.space##.site-branding
-anime.dutchycorp.space###recent-posts-2 > ul
 anime.dutchycorp.space###recent-posts-2 > .widget-title
-anime.dutchycorp.space##.breadcrumb
-anime.dutchycorp.space##.sfsi_widget
-anime.dutchycorp.space###sfsi-widget-2
-anime.dutchycorp.space###helpass
-anime.dutchycorp.space##.copyrights
+anime.dutchycorp.space###categories-4 > .widget-title
 anime.dutchycorp.space###clickhelp_two > center > p
 anime.dutchycorp.space###phpeverywherewidget-3
 anime.dutchycorp.space###phpeverywherewidget-4
+anime.dutchycorp.space###recent-posts-2 > ul
 anime.dutchycorp.space###categories-4 > ul
+anime.dutchycorp.space##.site-branding
+anime.dutchycorp.space###sfsi-widget-2
+anime.dutchycorp.space##.single_post
 anime.dutchycorp.space##.search-form
-anime.dutchycorp.space###categories-4 > .widget-title
+anime.dutchycorp.space##.sfsi_widget
+anime.dutchycorp.space##.breadcrumb
+anime.dutchycorp.space##.copyrights
+anime.dutchycorp.space###helpass
 
+! https://uniqueten.net
+uniqueten.net##.text-center.wpsafe-top .\36 034c92ee663c116de7b6225
+uniqueten.net##.has-no-content.container.clr
+uniqueten.net##.text-center.wpsafe-top p
+uniqueten.net###main > .clr.container
+uniqueten.net##center:nth-of-type(2)
+uniqueten.net##center:nth-of-type(6)
+uniqueten.net##center:nth-of-type(1)
+uniqueten.net##.clr.minimal-header
+uniqueten.net##.no-footer-nav.clr
+uniqueten.net##.clr.oceanwp-row
+
+! https://crypto-faucet.xyz
+crypto-faucet.xyz##div.text-center.py-2.col-md-12:nth-of-type(1)
+crypto-faucet.xyz##div.py-2.text-center.col-md-12:nth-of-type(3)
+crypto-faucet.xyz##.p-5.col-md-12
+crypto-faucet.xyz##.col-md-7
+crypto-faucet.xyz##.col-md-2
+
+! https://doctor-groups.com
+doctor-groups.com##div.text-center.py-2.col-md-12:nth-of-type(1)
+doctor-groups.com##div.py-2.text-center.col-md-12:nth-of-type(3)
+doctor-groups.com##.p-5.col-md-12
+doctor-groups.com##.col-md-7
+doctor-groups.com##.col-md-2
+
+! https://cashearn.cc
+cashearn.cc##body > div:nth-of-type(5)
+
+! https://deportealdia.live
+deportealdia.live##.row > .container > .row > .col-md-offset-1.col-md-10
+deportealdia.live##div.container:nth-of-type(2) > .row
+
+! https://za.gl
+za.gl##.copyright-container
+za.gl##.container-fluid
+
+! https://linkad.in
+linkad.in##.copyright-container
+linkad.in##.text-left
+
+! https://bitcoinly.in
+bitcoinly.in##.copyright-container
+bitcoinly.in##.text-left
+
+! https://vshort.link
+vshort.link##.copyright-container
+vshort.link##.container-fluid
+vshort.link##.text-left
+
+! https://birdurls.com
+birdurls.com##.copyright-container
+birdurls.com##.container-fluid
+birdurls.com##.text-left
+
+! https://owllink.net
+owllink.net##.copyright-container
+owllink.net##.container-fluid
+owllink.net##.text-left
+
+! https://shrlink.top
+shrlink.top##.animated.zoomIn.wow.text-center.py-5
+
+! https://illink.net
+illink.net##.copyright-container
+illink.net##.container-fluid
+illink.net##.text-left
+
+! https://mcrypto.club
+mcrypto.club##.clearfix.bestwp-top-wrapper.bestwp-featured-posts-area
+mcrypto.club##.clearfix.bestwp-sidebar-one-wrapper-inside
+mcrypto.club##.clearfix.bestwp-sidebar-two-wrapper-inside
+mcrypto.club##div.bestwp-outer-wrapper:nth-of-type(5)
+mcrypto.club##.clearfix.bestwp-main-wrapper-inside
+mcrypto.club##.clearfix.bestwp-head-content
+mcrypto.club###bestwp-secondary-navigation
+mcrypto.club###bestwp-footer
+mcrypto.club###promo1
+
+! https://coinsparty.mcrypto.club
+coinsparty.mcrypto.club##.copyright-container
+coinsparty.mcrypto.club##.container-fluid
+coinsparty.mcrypto.club##.text-left
+
+! https://zagl.info
+zagl.info##.copyright-container
+zagl.info##.text-left
+
+! https://bitlinks.pw
+bitlinks.pw##div.text-left:nth-of-type(3)
+bitlinks.pw###link-view > .text-left
+bitlinks.pw##.px-2.text-left
+bitlinks.pw##center
+
+! https://fcc.lc
+fcc.lc##p
+fcc.lc##h2.text-center
+fcc.lc##.col-sm-6
+fcc.lc##.col-sm-4
+fcc.lc##.row
+fcc.lc##.site-logo
+
+! https://100count.net
+100count.net##.col-md-3
+100count.net##.pb-3.text-center.col-md-12
+100count.net##div.text-center.col-md-12:nth-of-type(3)
+100count.net##.text-left
+100count.net##center > .col-md-12 > center:nth-of-type(1)
+100count.net##h5:nth-of-type(2)
+100count.net##center > font > p
+100count.net###methods h1
+100count.net##h5:nth-of-type(1)
+100count.net###methods > font > p
+100count.net##h2:nth-of-type(1)
+100count.net##p:nth-of-type(1)
+100count.net##h2:nth-of-type(2)
+100count.net##p:nth-of-type(2)
+100count.net##h1:nth-of-type(1)
+100count.net##p:nth-of-type(3)
+100count.net##h1:nth-of-type(2)
+100count.net##p:nth-of-type(4)
+100count.net##h1:nth-of-type(3)
+100count.net##p:nth-of-type(5)
+100count.net##h1:nth-of-type(4)
+100count.net##p:nth-of-type(6)
+100count.net##h1:nth-of-type(5)
+100count.net##p:nth-of-type(7)
+100count.net##hr
+100count.net##.copyright-container
+100count.net##.container-fluid
+100count.net##p:nth-of-type(8)
+100count.net##h1
+100count.net##h4
+100count.net##h3
