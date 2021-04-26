@@ -5,6 +5,8 @@ www.cryptomininggame.com###score_block > [href^="https://go.stormgain.com/visit/
 www.cryptomininggame.com##.row-fluid.sonata-user-show > div > div.text-center > [href^="https://tracker-pm2.fortunejackpartners.com/link"]
 www.cryptomininggame.com##div.text-center > [href^="https://wolf.bet/"]
 www.cryptomininggame.com##[href^="https://tracker-pm2.fortunejackpartners.com/link"]
+www.cryptomininggame.com###main_container > div.row > .col-lg-3
+www.cryptomininggame.com##.text-center.row
 ||cryptomininggame.com/uploads/partner/images/5fd9cdff6e496974448103.jpg$image
 ||www.cryptomininggame.com/uploads/shortad/images/600fd4b74865a067106612.jpg$image
 ||www.cryptomininggame.com/uploads/shortad/images/5faa710fa38f7436197153.jpg$image
@@ -345,3 +347,18 @@ ultraten.net##.copyright-container
 ultraten.net##.navbar-default.navbar
 ultraten.net##p
 ultraten.net##h4
+
+! https://faucetpay.io
+faucetpay.io##.pd-xl-x-0.pd-lg-x-10.pd-x-0.container > center
+
+! https://doge-faucet.com
+doge-faucet.com##.mb-3.col-sm-12
+doge-faucet.com##.mb-3.order-md-3.order-3.col-lg-2.col-md-3.col-sm-6
+doge-faucet.com##.mb-3.order-md-1.order-2.col-lg-2.col-md-3.col-sm-6 > [href] > .bspot.hover-effect
+doge-faucet.com##.mb-3.text-center > [href] > .bspot.hover-effect
+
+! https://litecoin-faucet.com/
+litecoin-faucet.com##.mb-3.col-sm-12
+litecoin-faucet.com##.mb-3.order-md-3.order-3.col-lg-2.col-md-3.col-sm-6
+litecoin-faucet.com##.mb-3.order-md-1.order-2.col-lg-2.col-md-3.col-sm-6 > [href] > .bspot.hover-effect
+litecoin-faucet.com##.mb-3.text-center > [href] > .bspot.hover-effect
