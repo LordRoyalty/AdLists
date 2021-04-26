@@ -315,7 +315,7 @@ cashearn.cc##.text-center.box-body > h4
 ! https://dutchycorp.ovh
 dutchycorp.ovh###link-view > p
 dutchycorp.ovh###cl2 > p
-dutchycorp.ovh##.text-center.form-group
+!dutchycorp.ovh##.text-center.form-group
 dutchycorp.ovh##.copyright-container
 dutchycorp.ovh##.container-fluid
 dutchycorp.ovh##.col-md-offset-1.col-md-10 > h3
