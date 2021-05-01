@@ -126,6 +126,7 @@ za.gl##.container-fluid
 ! https://linkad.in
 linkad.in##.copyright-container
 linkad.in##.text-left
+linkad.in##.navbar-default.navbar
 
 ! https://bitcoinly.in
 bitcoinly.in##.copyright-container
@@ -362,3 +363,274 @@ litecoin-faucet.com##.mb-3.col-sm-12
 litecoin-faucet.com##.mb-3.order-md-3.order-3.col-lg-2.col-md-3.col-sm-6
 litecoin-faucet.com##.mb-3.order-md-1.order-2.col-lg-2.col-md-3.col-sm-6 > [href] > .bspot.hover-effect
 litecoin-faucet.com##.mb-3.text-center > [href] > .bspot.hover-effect
+
+! https://yoshare.net
+yoshare.net###genesis-content
+yoshare.net##.widget-area.sidebar-primary.sidebar
+yoshare.net##.site-footer
+yoshare.net##.site-header
+
+! https://kiemlua.com
+kiemlua.com##.site-logo
+kiemlua.com##p:nth-of-type(1)
+kiemlua.com##.text-center > .text-center
+kiemlua.com##.row
+kiemlua.com##p:nth-of-type(1)
+kiemlua.com##.text-center > .text-center
+kiemlua.com##p:nth-of-type(2)
+kiemlua.com##.site-logo
+kiemlua.com##.row
+
+! https://pennbookcenter.com
+pennbookcenter.com##.site-logo
+pennbookcenter.com##p:nth-of-type(1)
+pennbookcenter.com##.text-center > .text-center
+pennbookcenter.com##.row
+pennbookcenter.com###content > .text-center
+
+! https://tii.ai
+tii.ai##.text-left
+tii.ai##.copyright-container
+tii.ai##.navbar-default.navbar
+tii.ai##h3
+tii.ai##p
+
+! https://iir.ai
+iir.ai##.text-left
+iir.ai##.copyright-container
+iir.ai##.navbar-default.navbar
+
+! https://zshort.io
+zshort.io##.text-left
+zshort.io##.animated.wow.text-center.py-5
+zshort.io##.animated.fadeInDown.wow.navbar-dark.navbar-expand-lg.osahan-navbar.navbar
+zshort.io##.container-fluid
+
+
+! https://link1s.net
+link1s.net##.copyright-container
+link1s.net##.navbar-default.navbar
+
+! https://adsy.pw
+adsy.pw##center:nth-of-type(4) > center:nth-of-type(2)
+adsy.pw##div > center > center
+adsy.pw##.fn-clear.bgs.flex-col.flex-similar-games.play-game-bottom
+adsy.pw##div#game-bottom.fn-clear.bgs:nth-of-type(4)
+adsy.pw###game-col
+adsy.pw##.s-list
+adsy.pw##.foot-inner
+adsy.pw##iframe#adsy\.pw_980x300_DFP:nth-of-type(6)
+adsy.pw##iframe#adsy\.pw_980x300_DFP:nth-of-type(4)
+adsy.pw##iframe#adsy\.pw_980x300_DFP:nth-of-type(2)
+adsy.pw##body > center > center > iframe#playstore\.pw_leaderboard_728x90_DFP
+adsy.pw##.fn-clear.head-inner
+adsy.pw##.fix-top
+adsy.pw###adsy\.pw_300x600_1_DFP
+adsy.pw###playstore\.pw_sticky_sidebar_300x600_DFP
+
+! https://100games.online
+100games.online##dd
+100games.online##.fn-clear.bgs.flex-col.flex-similar-games.play-game-bottom
+100games.online##.container-fluid
+100games.online##.copyright-container
+100games.online##.foot-inner
+100games.online##[href="https://gamemonetize.com"]
+100games.online##.privacy-t
+100games.online##.fix-top
+
+! https://mitly.us
+mitly.us##.text-left
+mitly.us##.main-footer
+mitly.us##.navbar
+
+! https://exey.io
+exey.io##p
+exey.io##.text-center
+exey.io##.col-sm-4
+
+! https://mobi2c.com
+mobi2c.com##center
+mobi2c.com##.unpinned-no-transition.normal.smart.bs-pinning-block.content-wrap
+mobi2c.com##.bspw-header-style-8.bs-pinning-wrapper
+mobi2c.com##div.h_mnm > .demand-supply
+mobi2c.com##.content-container
+mobi2c.com##.copy-footer
+mobi2c.com##div:nth-of-type(4)
+
+! https://bitfly.io
+bitfly.io##.navbar-default.navbar
+bitfly.io##.copyright-container
+bitfly.io##.text-left
+bitfly.io##center
+bitfly.io##.container-fluid
+
+! https://healthy4pepole.com
+healthy4pepole.com##.post-template-1.layout-right-sidebar.layout-2-col-1.layout-2-col.container
+healthy4pepole.com##.copy-footer
+healthy4pepole.com##.bspw-header-style-8.bs-pinning-wrapper
+healthy4pepole.com##body > div:nth-of-type(2)
+
+! https://forex9c.com
+forex9c.com##.navbar-default.navbar
+forex9c.com##.text-left.box-main2
+forex9c.com##.copyright-container
+
+! https://url.namaidani.com
+url.namaidani.com##.text-left
+url.namaidani.com##.container-fluid
+url.namaidani.com##footer > div > center
+url.namaidani.com##.copyright-container
+url.namaidani.com##.navbar-default.navbar
+
+! https://tmearn.com
+tmearn.com##.text-left
+tmearn.com##.copyright-container
+||tmearn.com/modern_theme/build/img/header.jpg$image
+tmearn.com##.navbar-default.navbar
+
+! https://gainprofitblog1.freesats.xyz
+gainprofitblog1.freesats.xyz##.col-md-2
+gainprofitblog1.freesats.xyz##div.text-center.py-2.col-md-12:nth-of-type(1)
+gainprofitblog1.freesats.xyz##.p-5.col-md-12
+gainprofitblog1.freesats.xyz##.col-md-7 > .justify-content-center.row > div.text-center.col-md-12
+gainprofitblog1.freesats.xyz###caL93sb
+gainprofitblog1.freesats.xyz##.col-md-7
+gainprofitblog1.freesats.xyz##.pb-3.text-center.col-md-12
+gainprofitblog1.freesats.xyz##div.py-2.text-center.col-md-12:nth-of-type(3)
+
+! https://gainprofit.xyz
+gainprofit.xyz##.text-left
+gainprofit.xyz##.container-fluid
+gainprofit.xyz##.copyright-container
+gainprofit.xyz###caMtBR6
+gainprofit.xyz##.navbar-default.navbar
+
+! http://clik.pw
+clik.pw##.text-left
+clik.pw##.copyright-container
+
+! https://giris1.selcuksportshdgiris9.com
+giris1.selcuksportshdgiris9.com##[href="https://rotabetlink5.com/rotabet-tv-reklam"]
+giris1.selcuksportshdgiris9.com##.pageskin
+giris1.selcuksportshdgiris9.com##.social-media
+giris1.selcuksportshdgiris9.com###footersabit
+
+! http://www.selcuksportshd11.com
+www.selcuksportshd11.com##.modal-body
+www.selcuksportshd11.com##.arkaplan
+www.selcuksportshd11.com##.ust-alan.col-12
+www.selcuksportshd11.com##.vertical-align.text-center.col-md-2.col-sm-12 > .col-12 > [href] > .img-fluid
+www.selcuksportshd11.com##div.headbarheader.headmobile.headbar:nth-of-type(1)
+www.selcuksportshd11.com###footersabit
+www.selcuksportshd11.com##div.headbarheader.headmobile.headbar:nth-of-type(2)
+www.selcuksportshd11.com##.col-12 > div.row > .col-12
+www.selcuksportshd11.com##.img-fluid
+www.selcuksportshd11.com##.header-go
+www.selcuksportshd11.com##[href="https://giris6.selcuksportshdgiris2.live/"]
+www.selcuksportshd11.com##[href="https://priveiddaa.com"]
+www.selcuksportshd11.com##[href="https://privebonus.com"]
+www.selcuksportshd11.com##[href="https://dinamodayiz.com/"]
+www.selcuksportshd11.com##[href="https://dinamogol.com/"]
+www.selcuksportshd11.com##[href="https://bahisdinamo.com/"]
+www.selcuksportshd11.com##.vertical-align.text-center.col-md-10.col-sm-12
+www.selcuksportshd11.com##.container > div.row:nth-of-type(1)
+www.selcuksportshd11.com##[href="http://ref.gitadres.com/grandbetting"]
+www.selcuksportshd11.com##.tolfavicon font
+www.selcuksportshd11.com##.ustyazi
+
+! https://tny.so
+tny.so##.pt-3
+tny.so##.short-content
+tny.so##.main_menu.navbar-expand-md.navbar
+
+! https://1bit.space
+1bit.space##.col_12.merri.article-full
+1bit.space##.has-background-dark.is-multiline.footer-page.columns
+1bit.space##div.is-hidden-touch.column
+1bit.space##.navbar-deactivated.has-text-white.is-fixed-top.is-primary.navBarTransparent.navbar-default.navbar
+1bit.space##.is-size-6.is-size-7-touch.has-text-link
+
+! https://link.ltc24.com
+link.ltc24.com##.banner-inner
+link.ltc24.com##.text-left
+link.ltc24.com##.container-fluid
+link.ltc24.com##.copyright-container
+
+! https://popimed.com
+popimed.com##.animated.zoomIn.wow.text-center.py-5
+popimed.com##.text-left
+popimed.com##.container-fluid
+
+! https://noticiasesports.live
+noticiasesports.live##.row > .container > .row > .col-md-offset-1.col-md-10 > .skip-container
+noticiasesports.live##div.container:nth-of-type(2) > .row > .col-md-offset-1.col-md-10 > .skip-container
+
+! http://genpassword.top
+genpassword.top##.text-left
+genpassword.top##.copyright-container
+
+! http://bitcomarket.net
+bitcomarket.net##.text-left
+bitcomarket.net##.container-fluid
+bitcomarket.net##.copyright-container
+
+! https://7apple.net
+7apple.net##.clearfix.entry-content
+7apple.net##.footer-wrap
+7apple.net##.clearfix.widget-area.sidebar
+
+! https://btcads24.com
+btcads24.com##.text-left
+btcads24.com##.container-fluid
+btcads24.com##.copyright-container
+
+! https://sl.claimfreebits.com
+sl.claimfreebits.com##.blog-content
+sl.claimfreebits.com##div.text-left:nth-of-type(4)
+sl.claimfreebits.com##div.banner-captcha.banner:nth-of-type(3)
+sl.claimfreebits.com##.container-fluid
+sl.claimfreebits.com##.main-footer
+sl.claimfreebits.com##.page-header > h3
+
+! https://claimcrypto.cc
+claimcrypto.cc##.container > div.card-block.card-body:nth-of-type(1)
+claimcrypto.cc##div.card-block.card-body:nth-of-type(3)
+claimcrypto.cc##section > center
+claimcrypto.cc##div.col-2
+claimcrypto.cc##.card > .card-block.card-body > center
+
+! https://ptc.wtf
+ptc.wtf##div.card-block.card-body:nth-of-type(3)
+ptc.wtf##.col-sm-12
+ptc.wtf##.container > center
+ptc.wtf##section > center
+ptc.wtf##.container > div.card-block.card-body:nth-of-type(1)
+ptc.wtf##div.col-2
+
+! https://dogecoin.click
+dogecoin.click##.text-left
+dogecoin.click##.copyright-container
+dogecoin.click##.navbar-default.navbar
+dogecoin.click##center > .row > .col-sm-12
+dogecoin.click##.container > div.row > .col-sm-12
+dogecoin.click##div.col-sm-6
+dogecoin.click##.card-block.card-body
+
+! https://neonlink.net
+neonlink.net##.text-left
+neonlink.net##.container-fluid
+neonlink.net##.copyright-container
+neonlink.net##.navbar-default.navbar
+
+! https://coin.mg
+coin.mg##.constellation
+coin.mg##.text-white.header
+coin.mg##.navbar-stick-dark.navbar-light.navbar-expand-lg.navbar
+coin.mg##.container-fluid > .section-header
+coin.mg##div.pt-6.col-md-3.d-sm-block.d-none
+coin.mg##.py-7.section
+coin.mg##section.section:nth-of-type(3)
+coin.mg##.bg-gray.section
+coin.mg##.bg-dark.py-6.section
+coin.mg##.show.py-4.col-10.popup
+coin.mg##.footer
