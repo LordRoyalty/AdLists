@@ -634,3 +634,20 @@ coin.mg##.bg-gray.section
 coin.mg##.bg-dark.py-6.section
 coin.mg##.show.py-4.col-10.popup
 coin.mg##.footer
+
+! https://freebitco.in
+freebitco.in##.daily_jackpot_main_container_div
+freebitco.in##.cc_container--open.cc_container.cc_banner
+freebitco.in###bottom_user_ads_container
+
+! https://doge-faucet.com
+doge-faucet.com##.show.fade.hide.modal
+doge-faucet.com##.show.fade.modal-backdrop
+
+! https://litecoin-faucet.com
+litecoin-faucet.com##.show.fade.hide.modal
+litecoin-faucet.com##.show.fade.modal-backdrop
+
+! https://www.tiktok.com
+@@||byteoversea.com/
+
