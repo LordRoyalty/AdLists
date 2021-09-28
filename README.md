@@ -1,3 +1,2 @@
 # AdLists
-AdLists for adblock
-This is uBlock Origin adlists
+Domains of bad things for adblock
